@@ -289,6 +289,20 @@
 	    cursor:pointer;
 		}
 
+		#exercise_easy_selection{
+		border: 3px solid black; 
+	    border-radius: 5px;
+	    font-size:2em; 
+	    margin-bottom: 30px; 
+	    margin-top: 30px;
+	    width: 50%;
+	    display: flex; 
+	    justify-content:space-around; 
+	    align-items: center;
+	    flex-direction: row;
+	    cursor:pointer;
+		}
+
 		.difficult{
  		background-color:#B6DEAC;
 		}
@@ -342,12 +356,14 @@
 		#E1,#E2,#E3,#E4 {
 /*	    border: 3px solid black; */
 	    border-radius: 10px;
+	    border-bottom: 2px solid black;
+/*	    border-color: red;*/
 	    font-size:2em; 
-	    margin-bottom: 10px; 
-	    margin-top: 10px;
+/*	    margin-bottom: 10px; */
+/*	    margin-top: 10px;*/
 	    width: 50%;
-	    display: flex; 
-	    justify-content:space-between; 
+/*	    display: flex; */
+/*	    justify-content:space-between; */
 	    align-items: center;
 	    flex-direction: row;
 	    cursor:pointer;
@@ -384,8 +400,9 @@
 /*		    font-size:7em; */
 		    margin-bottom: 10px; 
 /*		    margin-top: 30px;*/
-		    width: 50%;
+		    width: 80%;
 		    height: 500px;
+		    font-size: 40px;
 
 /*		    display: flex; */
 /*		    justify-content:space-between; */
