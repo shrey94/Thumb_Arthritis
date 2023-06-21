@@ -11,7 +11,7 @@ function incrementSeconds() {
   el.innerText = "Reps: " + seconds + " /10";
   // console.log(seconds);
   if (seconds >9.5){
-    window.location.href = 'Completion_Ex_Page.html';
+    window.location.href = 'Completion_PFE_Page.html';
     clearInterval(timer);
   }
 }
