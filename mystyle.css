@@ -14,17 +14,18 @@
 			
 		}
 
-		#CNHC_Banner{
-			display: flex;
+#CNHC_Banner{
+display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: center;
+text-align: center;
 padding: 50px;
 gap: 10px;
-margin: auto;
+margin:0 auto;
 /*position: absolute;*/
-width: 500px;
-height: 137px;
+width: 70%;
+height: 150px;
 /*left: 8px;*/
 /*top: 60px;*/
 color:#002664;
@@ -32,7 +33,7 @@ background: #FFFFFF;
 border-radius: 15px;
 border: 2px solid black;
 
-		}
+}
 
 		#banner{
 			background-color: #002664;
