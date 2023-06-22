@@ -382,7 +382,7 @@ border: 2px solid black;
 	    font-size:2em; 
 /*	    margin-bottom: 10px; */
 /*	    margin-top: 10px;*/
-	    width: 50%;
+	    width: 60%;
 /*	    display: flex; */
 /*	    justify-content:space-between; */
 	    align-items: center;
@@ -390,7 +390,7 @@ border: 2px solid black;
 	    cursor:pointer;
 	    background-color: #FCD901;
 	    color:#002664;
-	    height:80px;
+	    height:90px;
 
 		}
 
@@ -436,7 +436,7 @@ border: 2px solid black;
 			background: #007DAC;
 		    border-radius: 4px;
 		    padding: 16px 16px 16px 18px;
-		    width:40%;
+		    width:60%;
 		    font-size: 1.5em;
 		    margin-top: 150px;
 		    cursor:pointer;
