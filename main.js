@@ -14,7 +14,7 @@ function incrementSeconds() {
     clearInterval(timer);
   }
 }
-var timer = setInterval(incrementSeconds, 2500);
+var timer = setInterval(incrementSeconds, 2600);
 
 // if (ispaused==false){
 //     setInterval(incrementSeconds, 2500);
