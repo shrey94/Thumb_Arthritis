@@ -1,3 +1,6 @@
+
+
+
 var submitbtn = document.getElementById('Submit_Answer');
 var x = document.getElementsByClassName('options');
 var count_ed = 0;
@@ -5,6 +8,8 @@ var count_ec1 = 0;
 var count_ec2 = 0;
 var count_ec3 = 0;
 var count_ec4 = 0;
+
+
 
 
 //SELECTING OPTIONS
