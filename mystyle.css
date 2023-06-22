@@ -23,10 +23,10 @@ padding: 50px;
 gap: 10px;
 margin: auto;
 /*position: absolute;*/
-width: 559px;
+width: 500px;
 height: 137px;
-left: 8px;
-top: 60px;
+/*left: 8px;*/
+/*top: 60px;*/
 color:#002664;
 background: #FFFFFF;
 border-radius: 15px;
@@ -79,7 +79,7 @@ border: 2px solid black;
 	    font-size:2em; 
 	    margin-bottom: 30px; 
 	    margin-top: 30px;
-	    width: 50%;
+	    width: 70%;
 	    display: flex; 
 	    justify-content:space-between; 
 	    align-items: center;
@@ -115,7 +115,7 @@ border: 2px solid black;
 			background: #797676;
 		    border-radius: 4px;
 		    padding: 16px 16px 16px 18px;
-		    width:50%;
+		    width:70%;
 		    font-size: 1.5em;
 		    margin-top: 150px;
 		    cursor:pointer;
